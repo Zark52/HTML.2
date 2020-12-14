@@ -1,0 +1,36 @@
+body {
+    width: 500px;
+    padding-left: 150px; 
+}
+
+#allah:hover {
+      background-color: snow;
+    
+}
+
+#pute:hover {
+    color: chocolate;
+}
+
+
+#pute  {
+    text-decoration: none;
+}
+
+.ptnconnar:hover {
+     color: brown;
+     margin: 50px;
+     padding-right: 10%;
+}
+
+.titre1{
+    color:lawngreen;  
+    text-shadow: 1px 1px 2px blue ;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+.ptnconnarse:hover {
+    color:fuchsia;
+    text-decoration: none;
+}
